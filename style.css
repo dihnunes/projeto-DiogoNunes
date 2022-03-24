@@ -1,21 +1,14 @@
-h1{
-    color: dodgerblue;
-     font: family
+.header{
+    background-color: black;
+    color: #3289cd;
 }
-h2{
-    color: indigo;
-     font: family
+.header .container{
+    display: flex;
+    justify-content: space-between;
 }
-span{
-    color: dimgray;
-    font: Arial; 
-    font-size: 18px
-}
-
-.destaque{
-    background-color: yellow;
-}
-
-#destaqueEspecial{
-    background-color: aquamarine;
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 400px;
 }
