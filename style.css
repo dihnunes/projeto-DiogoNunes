@@ -1,0 +1,21 @@
+h1{
+    color: dodgerblue;
+     font: family
+}
+h2{
+    color: indigo;
+     font: family
+}
+span{
+    color: dimgray;
+    font: Arial; 
+    font-size: 18px
+}
+
+.destaque{
+    background-color: yellow;
+}
+
+#destaqueEspecial{
+    background-color: aquamarine;
+}
